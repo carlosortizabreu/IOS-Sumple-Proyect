@@ -83,6 +83,7 @@ class AnimationGameScene: SKScene, SKPhysicsContactDelegate {
         NodeA()
         NodeB()
         Gravity()
+        
     }
      // MARK: - DIDMOVE.
     override func didMove(to view: SKView) {
